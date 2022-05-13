@@ -8,6 +8,7 @@ import 'package:chattter_app/widgets/glowing_action_button.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:stream_chat_flutter_core/stream_chat_flutter_core.dart';
 
 import '../widgets/widgets.dart';
 
